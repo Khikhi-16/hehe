@@ -1,5 +1,3 @@
-Here is your **one complete master prompt** that explains the entire website + game concept clearly, structurally, and professionally.
-You can paste this into any AI, developer doc, or project planner and it will fully understand your vision without confusion.
 
 ---
 
